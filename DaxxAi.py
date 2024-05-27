@@ -257,4 +257,4 @@ async def Daxxprivatesticker(client: Client, message: Message):
                await message.reply_sticker(f"{hey}")
                
 
-client.run()
+
