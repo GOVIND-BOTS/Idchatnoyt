@@ -1,37 +1,37 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# 🍏 Apple Music Telegram Bot 🎶
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=DAXXIDCHAT&theme=flag-india)
+![Apple Music Banner](https://upload.wikimedia.org/wikipedia/commons/2/2a/Apple_Music_logo.svg)
 
-[![GIF](https://github.com/DAXXTEAM/DAXXIDCHAT/blob/main/DAXXTEAM.gif)](https://github.com/DAXXTEAM)
-   [![𝐌𝐑.𝐃𝐀𝐗𝐗](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")
-                  
+**Apple Music Telegram Bot** is a feature-rich music bot powered by **Pyrogram & Telethon**. It allows users to stream music from platforms like **YouTube, Spotify, and Apple Music** directly in Telegram voice chats.
 
+![Repo Status](https://img.shields.io/badge/Status-Active-green)
+![Python Version](https://img.shields.io/badge/Python-3.9-blue)
+![Koyeb Deployment](https://img.shields.io/badge/Deploy-Koyeb-orange)
 
+---
 
-<p align="center">
-<b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
-</p>
+## 🎧 Features
 
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
+- **YouTube Audio/Video Support**: Play both audio and video from YouTube links.
+- **Spotify Song Fetch & Play**: Fetch songs from Spotify and play them seamlessly.
+- **Apple Music Metadata Fetch**: Retrieve metadata from Apple Music for enriched playback information.
+- **Voice Chat Streaming**: Stream music directly into Telegram group voice chats.
+- **Queue System**: Manage your playlist with skip and stop commands.
+- **Easy Deployment**: Deploy effortlessly on platforms like Koyeb and Heroku.
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/DAXXTEAM/DAXXIDCHAT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
+---
 
-  
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAXXTEAM&show_icons=true&locale=en&layout=compact" alt="DAXXTEAM" /></p>
+## 🚀 Deployment
 
+### Deploy to Heroku
 
+Click the button below to deploy this bot to Heroku instantly:
 
-### Contact :
-<a href="https://t.me/cyberdaxx"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=thebotolbaba@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://youtube.com/cyberdaxx"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://twitter.com/"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://facebook.com/"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://instagram.com/daxxsir"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GOVIND-BOTS/AppleMusic)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Deploy on Koyeb
 
+1. **Fork & Clone the Repository**:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/AppleMusic.git
+   cd AppleMusic
